@@ -1,9 +1,9 @@
 HEADING
 
 `Welcome to Riyadh`
-
+h1
 SUB HEAD
-
+h3
 `Where A Traditional Past Meets A Modern Future.`
 
 IMAGE 1 FILE
@@ -15,7 +15,7 @@ IMAGE 1 ALT TEXT
 `Modern Transit`
 
 SMALLER SUB HEAD
-
+h2
 `Travel`
 
 PARAGRAPH 1
